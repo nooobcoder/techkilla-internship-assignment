@@ -7,7 +7,6 @@ import FrameContainer from "./components/FrameContainer";
 
 function App() {
 	const [frameBorder, setFrameBorder] = useState(null);
-	console.log(frameBorder);
 	return (
 		<div className="App">
 			<Header title={"Photobooth"} />

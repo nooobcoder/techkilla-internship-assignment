@@ -11,7 +11,7 @@ const Header = ({ title }) => {
 					src="https://cdn.iconscout.com/icon/free/png-512/apple-photos-493155.png"
 					alt="app-logp"
 				/>
-				<div>{title}</div>
+				{title}
 			</p>
 		</Fragment>
 	);

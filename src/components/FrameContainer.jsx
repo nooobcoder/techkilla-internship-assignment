@@ -9,8 +9,8 @@ const FrameContainer = ({ setFrameBorder }) => {
 		{ id: 3, border: "10px solid violet" },
 		{ id: 4, border: "13px solid red" },
 		{ id: 5, border: "20px solid #44C899" },
-		{ id: 5, border: "20px solid #44C409" },
-		{ id: 6, border: "3px solid #441b99" },
+		{ id: 6, border: "20px solid #44C409" },
+		{ id: 7, border: "3px solid #441b99" },
 	];
 
 	return (

@@ -32,7 +32,6 @@ const ImageContainer = ({ frameBorder }) => {
 	const handleImageSelect = (e) => {
 		setImageSrc(URL.createObjectURL(e.target.files[0]));
 	};
-	console.log(frameBorder);
 	return (
 		<Fragment>
 			<div className={styles.imagecontainer} style={{ border: frameBorder }}>

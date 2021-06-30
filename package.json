@@ -1,6 +1,6 @@
 {
 	"name": "photobook-app",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"dependencies": {
 		"html-to-image": "^1.6.2",
