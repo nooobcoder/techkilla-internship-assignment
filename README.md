@@ -1,4 +1,4 @@
-# PhotoBook App demo for Internship at TechKilla - by Ankur Paul
+# PhotoBooth App demo for Internship at TechKilla - by Ankur Paul
 
 Deployed at https://photobooth-nooobcoder.vercel.app/
 
