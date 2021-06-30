@@ -1,0 +1,15 @@
+.framecontainer {
+	display: flex;
+	margin-top: 50px;
+	text-align: center;
+	margin: auto;
+}
+
+div.scrollmenu {
+	overflow: auto;
+	white-space: nowrap;
+}
+
+.li {
+	list-style: none;
+}

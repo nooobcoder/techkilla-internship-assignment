@@ -1,0 +1,10 @@
+.container {
+	color: #9b1fe8;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 30px;
+	cursor: pointer;
+	font-family: "Roboto";
+	background-color: bisque;
+}
